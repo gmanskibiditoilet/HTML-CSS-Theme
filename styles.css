@@ -93,7 +93,7 @@ header .navbar ul li a:hover {
 
 .content {
   width: 75%;
-  float: left;
+  float: right;
   background-color: #fff;
   padding: 20px;
   border: 1px solid #ddd;
