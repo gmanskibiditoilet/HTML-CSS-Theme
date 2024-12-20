@@ -104,3 +104,22 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+
+main-content clearfix {
+  width: 25%;
+  float: left;
+  padding: 20px 25px;
+  font-size:20px;
+  color: white;
+  background-color: rgba(128, 128, 128, 0.587);
+  list-style:none;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 20px 25px;
+  display: inline-block;
+  width: 100%;
+  margin-right: 10px;
+
+}
